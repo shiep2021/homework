@@ -1,1 +1,0 @@
-![](guapai.png)
