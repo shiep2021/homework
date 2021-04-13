@@ -1,1 +1,0 @@
-![](mingpai.png)
