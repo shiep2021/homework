@@ -8,4 +8,7 @@
 ![](huatu.png)![image](https://user-images.githubusercontent.com/82360005/115332445-67b03900-a1ca-11eb-905c-2cb344cc4bf2.png)
 九宫格：
 ![](jiugongge.png)![image](https://user-images.githubusercontent.com/82360005/115339169-cb406380-a1d6-11eb-96f7-abb3a777efc3.png)
+打印九宫格对应数字：
+![](jiushuzi.png)![image](https://user-images.githubusercontent.com/82360005/115342314-a6e78580-a1dc-11eb-9315-4cbcdea13638.png)
+![](jiushuzi2.png)![image](https://user-images.githubusercontent.com/82360005/115342369-bebf0980-a1dc-11eb-8aca-33a787045711.png)
 
