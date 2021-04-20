@@ -11,4 +11,9 @@
 打印九宫格对应数字：
 ![](jiushuzi.png)![image](https://user-images.githubusercontent.com/82360005/115342314-a6e78580-a1dc-11eb-9315-4cbcdea13638.png)
 ![](jiushuzi2.png)![image](https://user-images.githubusercontent.com/82360005/115342369-bebf0980-a1dc-11eb-8aca-33a787045711.png)
+井字棋：
+（1）白棋胜：
+![](jing.png)![image](https://user-images.githubusercontent.com/82360005/115411220-dec6eb00-a225-11eb-9da3-388b126a58ce.png)
+（2）黑棋胜：
+![](heiqi.png)![image](https://user-images.githubusercontent.com/82360005/115411607-31080c00-a226-11eb-9ce3-400dfa016dce.png)
 
