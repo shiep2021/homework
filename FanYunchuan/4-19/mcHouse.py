@@ -42,14 +42,7 @@ class House():
         mc.setBlock(self.x0+self.l//2,self.y0+1,self.z0,0)
         mc.setBlock(self.x0+self.l//2,self.y0+2,self.z0,0)
         mc.setBlock(self.x0+self.l//2,self.y0+3,self.z0,0)
-        '''
-        mc.setBlock(self.x0 + self.l // 2+1, self.y0 + 1, self.z0, 0)
-        mc.setBlock(self.x0 + self.l // 2+1, self.y0 + 2, self.z0, 0)
-        mc.setBlock(self.x0 + self.l // 2+1, self.y0 + 3, self.z0, 0)
-        mc.setBlock(self.x0 + self.l // 2 + 2, self.y0 + 1, self.z0, 0)
-        mc.setBlock(self.x0 + self.l // 2 + 2, self.y0 + 2, self.z0, 0)
-        mc.setBlock(self.x0 + self.l // 2 + 2, self.y0 + 3, self.z0, 0)
-        '''
+
     def isInsidehouse(self,user):
 
         if user.x < self.x0+self.l and user.x > self.x0 and user.y < self.y0+self.h and  user.y > self.y0 and user.z < self.z0+self.w and user.z > self.z0: #判断是否在房间内
@@ -77,7 +70,7 @@ if __name__ =="__main__":
 
     stay_time = 0
     while True:
-        pos = mc.player.getTilePos()  #读取用户的位置
+        pos = mc.player.getTilePos() 
         house1.isInsidehouse(pos)
         house2.isInsidehouse(pos)
         time.sleep(1)
