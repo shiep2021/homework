@@ -1,7 +1,9 @@
 根据超声波测出的距离控制RGB的颜色：
 
 距离 <= 10cm        => RGB颜色为红
+
 10cm < 距离 <= 30cm => RGB颜色为蓝
+
 30cm < 距离         => RGB颜色为绿
 
 ![13FCB57898B92BB863327430CF194641](https://user-images.githubusercontent.com/74967520/117755953-d32c7a00-b24f-11eb-8192-fd0d2f4892ed.jpg)
