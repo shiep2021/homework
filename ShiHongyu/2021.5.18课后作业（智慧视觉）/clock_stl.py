@@ -64,9 +64,10 @@ actor_hour.RotateZ(90)
 actor_min.RotateZ(-90)
 actor_sec.RotateZ(-90)
 
-#初始角度
+'''
 if dt1.hour <=12 :
     dt1.hour += 12
+'''
 actor_hour.RotateZ(-(dt1.hour-12)*30)
 actor_min.RotateZ(-dt1.minute*6)
 actor_sec.RotateZ(-dt1.second*6)
